@@ -22,8 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/is_midey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="is_midey" height="30" width="40" /></a>
 <a href="https://instagram.com/_.midey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.midey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olumide-oluwuyi-66650b26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedln.svg" alt="_.midey" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/olumide-oluwuyi-66650b26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olumide-oluwuyi-66650b26a" height="30" width="40" /></a>
 
 <h3 align="left">Tech Stack:</h3>
 
