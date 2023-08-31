@@ -37,7 +37,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mideyolu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mideyolu&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mideyolu&" alt="mideyolu" /></p>
