@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/is_midey" target="blank"><img src="https://img.shields.io/twitter/follow/is_midey?logo=twitter&style=for-the-badge" alt="is_midey" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS, React js ,JavaScript, Data Science**
+- 🌱 I’m currently learning **React js ,JavaScript, Data Science**
 
 - 💬 Ask me about **React, Ai**
 
