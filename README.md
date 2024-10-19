@@ -4,22 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mideyolu&label=Profile%20views&color=0e75b6&style=flat" alt="mideyolu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mideyolu" alt="mideyolu" /></a> </p>
-
-- 🔭 I’m currently working on my final year project **LCDS( Python, Tensorflow, React, SCSS, FastApi)**
-
-- 🌱 I’m currently learning **Tensorflow, React, Pytorch**
-
-- 👨‍💻 All of my projects are available at [https://GitHub.com/mideyolu](https://GitHub.com/mideyolu)
-
-- 💬 Ask me about **React, AI, Web , Data Science**
-
-- 📫 How to reach me **ismailoluwuyi90@gmail.com**
-
-- ⚡ Fun fact **I think therefore I'm..**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/is.midey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="is.midey" height="30" width="40" /></a>
 </p>
 
 <div align="center">
