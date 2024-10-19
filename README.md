@@ -66,13 +66,18 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mideyolu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mideyolu&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-<br/>  
+  <br/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mideyolu&show_icons=true&locale=en&layout=compact" alt="mideyolu" /></p>
+</div>  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mideyolu&show_icons=true&locale=en&layout=compact" alt="mideyolu" /></p>
 
-<br/>
+
+
+
 
 
 ----
