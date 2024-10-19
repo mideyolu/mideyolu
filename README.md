@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Oluwuyi Olumide</h1>
-<h3 align="center">A passionate coding developer with experience in ML and Web dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mideyolu&label=Profile%20views&color=0e75b6&style=flat" alt="mideyolu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mideyolu" alt="mideyolu" /></a> </p>
-</p>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Oluwuyi Olumide, a software engineer with interest in data science and Ai 👨‍💻 🚀</div> 
+### <div align="center">Hi 👋, I'm Oluwuyi Olumide, a software engineer with interest in data science and Ai 👨‍💻 🚀</div> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mideyolu&&style=flat-square" align="center" />
@@ -19,6 +13,12 @@
   
 
 <br/>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mideyolu&label=Profile%20views&color=0e75b6&style=flat" alt="mideyolu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mideyolu" alt="mideyolu" /></a> </p>
+</p>
+<br/>
   
 
 
