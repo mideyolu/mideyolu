@@ -7,9 +7,7 @@
 
 ### <div align="center">Hi 👋, I'm Oluwuyi Olumide, a software engineer with interest in data science and Ai 👨‍💻 🚀</div> 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mideyolu&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
