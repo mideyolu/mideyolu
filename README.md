@@ -23,7 +23,7 @@
 
 ### Project  
 - 🔭 I’m currently working on my final year project a Lung Cancer Detection System using TensorFlow, React, Scss, and FastApi
-(https://github.com/mideyolu/LCDS)  
+(https://github.com/mideyolu/LCDSS)  
   
 
 - 🌱 I’m currently learning FastApi and TensorFlow  
