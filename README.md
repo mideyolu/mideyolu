@@ -22,7 +22,7 @@
 
 
 ### Project  
-- 🔭 I’m currently working on my final year project a Lung Cancer Detection System using TensorFlow, React, Scss, and FastApi
+- 🔭 I’m currently working on my final year project a Lung Cancer Detection System using TensorFlow, React, Tailwind CSS, and FastApi
 (https://github.com/mideyolu/LCDSS)  
   
 
