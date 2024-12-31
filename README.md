@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" align="center" style="width: 100%" />
 </div>  
