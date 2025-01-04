@@ -62,17 +62,8 @@
 
 
 ## Github Stats  
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mideyolu&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-  <br/>   <br/>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mideyolu&show_icons=true&locale=en&layout=compact" alt="mideyolu" /></p>
-
-  <br/>   <br/>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mideyolu&" alt="mideyolu" /></p>
-</div>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=mideyolu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ----
 
