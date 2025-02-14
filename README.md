@@ -21,7 +21,7 @@
 
 ### Project  
 - 🔭 I’m currently working on my final year project a Lung Cancer Detection System using TensorFlow, React, Tailwind CSS, and FastApi
-(https://github.com/mideyolu/LCDSS)  
+(https://github.com/mideyolu/LCDSS_Frontend)  
   
 
 - 🌱 I’m currently learning FastApi and TensorFlow  
