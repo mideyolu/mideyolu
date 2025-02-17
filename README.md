@@ -38,7 +38,7 @@
 
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mideyolu&layout=pie)](https://github.com/mideyolu/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mideyolu&hide_progress=true)
 
 <br/>  
 
