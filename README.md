@@ -1,12 +1,4 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi 👋, I'm Oluwuyi Olumide, a software engineer with interest in data science and Ai 👨‍💻 🚀</div> 
-
-
-  
 
 <br/>  
 
@@ -20,7 +12,7 @@
 
 
 ### Project  
-- 🔭 I’m currently working on my final year project a Lung Cancer Detection System using TensorFlow, React, Tailwind CSS, and FastApi
+- 🔭 I’m currently exploring Data/AI, React, Typescript, Tailwind CSS, and FastApi
 (https://github.com/mideyolu/LCDSS_Frontend)  
   
 
