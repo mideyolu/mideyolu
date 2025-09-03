@@ -13,7 +13,7 @@
 
 ### Project  
 - 🔭 I’m currently exploring Data/AI, React, Typescript, Tailwind CSS, and FastApi
-(https://github.com/mideyolu/LCDSS_Frontend)  
+
   
 
 - 🌱 I’m currently learning FastApi and TensorFlow  
